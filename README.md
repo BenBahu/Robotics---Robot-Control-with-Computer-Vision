@@ -19,7 +19,7 @@ T22 : Joelle Ayoub, Benjamin Bahurel, Sonny Alain Fernand Basso, Benjamin Louis 
   - [6. Conclusion](#6-conclusion)
 
 ## Overview
-This repository accompanies the Jupyter Notebook **`Group_T22_report.ipynb`**, which contains the end-to-end workflow, code, and results. It is organized to support reproducibility and further development.
+This repository accompanies the Jupyter Notebook **`Group_T22_report.ipynb`**, which documents our Mobile Robotics project end-to-end: from sensor calibration and state estimation (Kalman filtering) to occupancy-grid mapping, global path planning and local obstacle avoidance, all the way to on-robot execution (via tdmclient) and reproducible simulations. It explains the rationale behind each module, visualizes intermediate results (plots and debug overlays), and ties them together into a modular pipeline for autonomous navigation. The goal is to provide a clear, reusable baseline that others can run, adapt, and extend for their own robots or course projects.
 
 ## Getting Started
 
